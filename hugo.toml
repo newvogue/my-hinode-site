@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://newvogue.github.io/my-hinode-site/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Hinode'
 [[module.imports]]
 path = 'github.com/gethinode/hinode'

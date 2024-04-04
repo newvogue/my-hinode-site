@@ -6494,7 +6494,7 @@ function initIndex() {
       {
         id: 0,
         tag: "en",
-        href: "/categories/",
+        href: "/my-hinode-site/categories/",
         title: "Categories",
         description: "",
         
@@ -6507,7 +6507,7 @@ function initIndex() {
       {
         id: 1,
         tag: "en",
-        href: "/tags/",
+        href: "/my-hinode-site/tags/",
         title: "Tags",
         description: "",
         
@@ -6520,7 +6520,7 @@ function initIndex() {
       {
         id: 2,
         tag: "en",
-        href: "/",
+        href: "/my-hinode-site/",
         title: "Welcome to Hinode!",
         description: "A clean documentation and blog theme for your Hugo site based on Bootstrap 5.",
         
